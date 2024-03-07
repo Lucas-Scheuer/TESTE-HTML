@@ -1,0 +1,20 @@
+h1{ text-align: center;
+	color:black;
+	font-weight: bold;
+}
+#x{
+
+
+     color:blue;
+     font-size: 20px;
+
+}
+.z{
+
+    border-style: solid;
+	border-color:red;
+}
+
+td{
+	width:33%;
+}
